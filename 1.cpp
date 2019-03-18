@@ -1,4 +1,5 @@
 //https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+//Complexity: O(1)
 #include<bits/stdc++.h>
 using namespace std;
 /* Link list node */
