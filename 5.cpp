@@ -27,7 +27,6 @@ int main()
 				if (j >= c[i])
 					dp[j] += dp[j - c[i]];
 			}
-			
 		}
 		cout << dp[n] << endl;
 	}
